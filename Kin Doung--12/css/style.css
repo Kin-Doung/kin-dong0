@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.profile-card{
+    padding: 20px;
+    border: none;
+    margin: 100px 0px 0 700px ;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 10px rgb(197, 192, 192);
+    width: 400px;
+    text-align: center;
+}
+.profile-card img{
+    padding: 10px;
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    background-color: #5351fc;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: #fff;
+    border: 1px solid;
+    font-size: 30px;
+    background-color: #5e6ecc;
+    border-radius: 10px;
+
+}
